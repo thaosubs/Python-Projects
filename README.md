@@ -1,6 +1,6 @@
 <center>Welcome!</center>
 
-<p>This is where I'll keep all my Python projects that I've completed during my learning process. I'm still learning the hole GitHub thing, so things might be a little wonky right now. 
+<p>This is where I'll keep all my Python projects that I've completed during my learning process. I'm still learning the whole GitHub thing, so things might be a little wonky right now. 
 I will list each project I've completed in this readMe file, along with the amount of time it took to create it, the level of difficulty (subjective to...me), and a brief overview of my thoughts.</p>
 
 | Project Name | Time | Difficulty | Thoughts |
